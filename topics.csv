@@ -1,0 +1,6 @@
+﻿accesstoken,title,tab,content,except_status_code,except_msg
+ ,postmantestpost,ask,postmantestpost,401,错误的accessToken
+d807b298-576d-47f4-8849-0c5052cc049c, ,ask,postmantestpost,400,标题不能为空
+d807b298-576d-47f4-8849-0c5052cc049c,postmantestpost, ,postmantestpost,400,必须选择一个版块
+d807b298-576d-47f4-8849-0c5052cc049c,postmantestpost,ask, ,400,内容不可为空
+d807b298-576d-47f4-8849-0c5052cc049c,postmantestpost,ask,postmantestpost,200,返回topid值
